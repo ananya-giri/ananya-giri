@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ananya Giri<br><br>🎓 B.Tech CSE undergraduate | 💻 Full-Stack Developer | 🤖 Generative AI Enthusiast<br><br>🔭 I’m currently working on AI-powered full-stack applications (MERN, FastAPI, GenAI)<br>🌱 I’m currently learning Machine Learning & AI for Healthcare<br>👯 I’m looking to collaborate on GenAI, Web Dev projects<br>🤝 I’m looking for help with scaling AI apps & production deployments<br>⚡ Fun fact: I love building AI-powered solutions that create real-world impact 🚀
+👋 Hi, I’m Ananya Giri<br><br>🎓 B.Tech CSE undergraduate | 💻 Full-Stack Developer | 🤖 Generative AI and Agentic AI Developer<br><br>🔭 I’m currently working on AI-powered full-stack applications (MERN, FastAPI, GenAI)<br>🌱 I’m currently learning Machine Learning & AI for Healthcare<br>👯 I’m looking to collaborate on GenAI, Web Dev projects<br>🤝 I’m looking for help with scaling AI apps & production deployments<br>⚡ Fun fact: I love building AI-powered solutions that create real-world impact 🚀
 
 
 ## 🌐 Socials:
